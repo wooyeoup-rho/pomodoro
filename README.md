@@ -5,8 +5,25 @@ Created as a part of [
 100 Days of Code: The Complete Python Pro Bootcamp
 ](https://www.udemy.com/course/100-days-of-code/) by Angela Yu.
 
----
+![pomodoro](https://github.com/user-attachments/assets/3ebdf367-c6bf-4947-b53d-dcb43fada63a)
 
+---
+### Download the executable:
+- You can download the precompiled executable directly (Windows):
+[Download Pomodoro v1.0](https://github.com/wooyeoup-rho/pomodoro/releases/download/v1.0/pomodoro.exe)
+
+- Or check out the releases page:
+[Pomodoro releases](https://github.com/wooyeoup-rho/pomodoro/releases/v1.0)
+
+---
+### Demonstration
+The demonstration uses:
+- Shorter time periods.
+- Starts at 6 repetitions completed.
+
+https://github.com/user-attachments/assets/bec9aeb3-7e52-479f-a81f-8b198f6924bd
+
+---
 ### Requirements
 1. Python
 2. PyInstaller (For creating the executable)
